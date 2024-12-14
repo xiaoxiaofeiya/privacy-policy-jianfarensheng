@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>减法人生 - 隐私政策</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FDFBF7;
+        }
+        h1 {
+            color: #5D8276;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #7BA696;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+            margin-top: 40px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>减法人生隐私政策</h1>
+
+    <p>欢迎使用减法人生。我们深知个人信息对您的重要性，并会尽全力保护您的个人信息安全可靠。我们致力于维持您对我们的信任，恪守以下原则，保护您的个人信息：权责一致原则、目的明确原则、选择同意原则、最少够用原则、确保安全原则、主体参与原则、公开透明原则等。</p>
+
+    <h2>1. 信息收集</h2>
+    <p>减法人生采用本地优先的设计理念，您的所有数据默认都存储在设备本地，我们不会收集或上传您的个人信息。具体包括：</p>
+    <ul>
+        <li>任务清单数据</li>
+        <li>习惯记录数据</li>
+        <li>心灵笔记内容</li>
+        <li>应用设置信息</li>
+    </ul>
+
+    <h2>2. 信息使用</h2>
+    <p>您的所有数据都存储在您的设备上，仅供您个人使用。我们不会：</p>
+    <ul>
+        <li>收集您的个人信息</li>
+        <li>分析您的使用行为</li>
+        <li>向第三方分享您的信息</li>
+        <li>用于商业目的</li>
+    </ul>
+
+    <h2>3. 信息安全</h2>
+    <p>我们采取以下措施保护您的信息安全：</p>
+    <ul>
+        <li>本地数据存储，不上传服务器</li>
+        <li>不要求用户注册账号</li>
+        <li>不收集设备信息</li>
+        <li>不申请非必要权限</li>
+    </ul>
+
+    <h2>4. 信息控制</h2>
+    <p>您对自己的数据拥有完全的控制权：</p>
+    <ul>
+        <li>可随时删除应用内的所有数据</li>
+        <li>可通过系统备份功能保护数据</li>
+        <li>可完全卸载应用并清除所有数据</li>
+    </ul>
+
+    <h2>5. 未成年人保护</h2>
+    <p>本应用适合所有年龄段的用户使用。对于未成年人用户，我们采取以下特殊保护措施：</p>
+    <ul>
+        <li>不收集任何未成年人信息</li>
+        <li>不针对未成年人推送任何内容</li>
+        <li>不向未成年人展示任何商业信息</li>
+    </ul>
+
+    <h2>6. 隐私政策更新</h2>
+    <p>我们可能适时修订本隐私政策的条款。如该等修订造成您在本隐私政策下权利的实质减少，我们将在修订生效前通过应用内显著位置提示您。</p>
+
+    <h2>7. 联系我们</h2>
+    <p>如果您对本隐私政策有任何疑问、意见或建议，可以通过以下方式与我们联系：</p>
+    <p>邮箱：1334089073@qq.com</p>
+
+    <p class="last-updated">最后更新时间：2024年1月1日</p>
+</body>
+</html> 
